@@ -28,10 +28,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Zip files
-*.zip
-
 # Cache
 .pytest_cache/
 .mypy_cache/
-
